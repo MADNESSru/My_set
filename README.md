@@ -1,1 +1,1 @@
-Моя курсовая работа по реализации коллекции Set через бинарное дерево.
+My implementation of Set in C++ (binary tree) (coursework)
